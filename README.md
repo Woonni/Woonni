@@ -4,7 +4,7 @@
 
 ##
 
- 🤍 Buscando trabalhar com font-end <br>
+ 🤍 Buscando trabalhar com front-end <br>
  🤍 Interessada em aprender novas linguagens <br>
  🤍 Apaixonada pela língua inglesa <br> <br>
 
