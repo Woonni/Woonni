@@ -2,7 +2,7 @@
 
 ### Oiii! Liege aqui 💜 <br> <br>
 
-##
+
 
  🤍 Buscando trabalhar com font-end <br>
  🤍 Interessada em aprender novas linguagens <br>
