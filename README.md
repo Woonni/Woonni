@@ -8,7 +8,7 @@
  🤍 Interessada em aprender novas linguagens <br>
  🤍 Apaixonada pela língua inglesa <br> <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woonni&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woonni&layout=compact&theme=tokyonight&card_width=200)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Woonni&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Woonni&layout=compact&theme=tokyonight&card_width=200&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
